@@ -15,19 +15,19 @@ const benefits: Array<BenefitType> = [
     icon: <HomeModernIcon className="h-6 w-6" />,
     title: "State of the Art Facilities",
     description:
-      "Neque adipiscing amet amet enim. Feugiat dolor enim fermentum in a in lectus pellentesque. Ullamcorper et.",
+      "Experience the pinnacle of fitness with our state-of-the-art facilities. We provide the best equipment and amenities to help you achieve your fitness goals. ",
   },
   {
     icon: <UserGroupIcon className="h-6 w-6" />,
     title: "100's of Diverse Classes",
     description:
-      "Eu ipsum id egestas risus tempus enim semper felis quis. Nec consectetur ac venenatis facilisi est. Eget ac turpis id.",
+      "Choose from our extensive selection of diverse fitness classes, offering something for everyone. Our classes are led by expert instructors who will guide you through each session",
   },
   {
     icon: <AcademicCapIcon className="h-6 w-6" />,
     title: "Expert and Pro Trainers",
     description:
-      "Fusce vestibulum aliquam ut cras. Nisl lectus egestas sapien nisl. Lacus at mi sit pellentesque. Congue parturient.",
+      "Our gym boasts a team of expert and professional trainers to guide you towards your fitness goals. They will provide you with the support and motivation you need to achieve your best.",
   },
 ];
 
@@ -131,18 +131,10 @@ const Benefits = ({ setSelectedPage }: Props) => {
               }}
             >
               <p className="my-5">
-                Nascetur aenean massa auctor tincidunt. Iaculis potenti amet
-                egestas ultrices consectetur adipiscing ultricies enim. Pulvinar
-                fames vitae vitae quis. Quis amet vulputate tincidunt at in
-                nulla nec. Consequat sed facilisis dui sit egestas ultrices
-                tellus. Ullamcorper arcu id pretium sapien proin integer nisl.
-                Felis orci diam odio.
+              Join the ranks of millions of happy members who are getting fit and embracing a healthier lifestyle at our gym! We take pride in our thriving community of individuals who have chosen to prioritize their well-being and make positive changes in their lives. With our exceptional facilities, expert guidance, and diverse range of fitness programs, you'll find the perfect path to achieve your fitness goals. Experience the energy, motivation, and camaraderie that our gym offers as you join the ranks of our satisfied members who are already reaping the benefits of a fitter, stronger, and happier life. 
               </p>
               <p className="mb-5">
-                Fringilla a sed at suspendisse ut enim volutpat. Rhoncus vel est
-                tellus quam porttitor. Mauris velit euismod elementum arcu neque
-                facilisi. Amet semper tortor facilisis metus nibh. Rhoncus sit
-                enim mattis odio in risus nunc.
+              Take the first step towards your transformation today and become a part of our dynamic fitness community!
               </p>
             </motion.div>
 
